@@ -12,7 +12,7 @@ Im an active SO community member and [PSF Managing member](https://python.org/ps
          src="https://github-readme-stats.vercel.app/api?username=ypankovych&show_icons=true&theme=dark&hide_border=true" />
          
 ## Current projects
-Cyrrently im working on [Pankoff](https://github.com/ypankovych/pankoff), it's a simple validatein tool witj serialization/deserialization capabilities.
+Currently im working on [Pankoff](https://github.com/ypankovych/pankoff), it's a simple validatein tool witj serialization/deserialization capabilities.
 <!--
 **P-Alban/P-Alban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
