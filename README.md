@@ -1,4 +1,7 @@
 # Welcome to my profile 👋
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=ypankovych&label=Visits" alt="ypankovych" />
+</p>
 
 ## Social
 Im an active SO community member and [PSF Managing member](https://python.org/psf/membership/#:~:text=Managing%20members%20are%20people%20who,the%20PSF's%20working%20groups%20etc.):
