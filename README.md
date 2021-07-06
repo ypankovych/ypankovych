@@ -9,10 +9,12 @@ Im an active SO community member and [PSF Managing member](https://python.org/ps
 <a href="https://ru.stackoverflow.com/users/236727/pavel-durmanov?tab=profile"><img src="https://stackexchange.com/users/flair/10214099.png?theme=dark" width="208" height="58" alt="Stackoverflow profile" title="Stackoverflow profile"></a>
 
 ## Stats
-![Ypankovych wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ypank&theme=dark)
 
-<img alt="GitHub Stats"
-         src="https://github-readme-stats.vercel.app/api?username=ypankovych&show_icons=true&theme=dark&hide_border=true" />
+![Ypankovych wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ypank&theme=dark)
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ypankovych&show_icons=true&theme=dark&hide_border=true" />
+	 
+![Yaroslav Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ypankovych&theme=solarized_dark)
+![Yaroslav Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ypankovych&theme=solarized_dark)
          
 ## Current projects
 Currently im working on [Pankoff](https://github.com/ypankovych/pankoff), it's a simple validation tool with serialization/deserialization capabilities.
