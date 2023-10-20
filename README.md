@@ -10,7 +10,6 @@ Im an active SO community member and [PSF Managing member](https://python.org/ps
 
 ## Stats
 
-![Ypankovych wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ypank&theme=dark)
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ypankovych&show_icons=true&theme=dark&hide_border=true" />
 	 
 ![Yaroslav Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ypankovych&theme=solarized_dark)
