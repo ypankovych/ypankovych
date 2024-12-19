@@ -6,7 +6,7 @@
 ## Social
 Im an active SO community member and [PSF Managing member](https://python.org/psf/membership/#:~:text=Managing%20members%20are%20people%20who,the%20PSF's%20working%20groups%20etc.):
 
-<a href="https://ru.stackoverflow.com/users/236727/pavel-durmanov?tab=profile"><img src="https://stackexchange.com/users/flair/10214099.png?theme=dark" width="208" height="58" alt="Stackoverflow profile" title="Stackoverflow profile"></a>
+<a href="https://ru.stackoverflow.com/users/236727/yaroslav?tab=profile"><img src="https://stackexchange.com/users/flair/10214099.png?theme=dark" width="208" height="58" alt="Stackoverflow profile" title="Stackoverflow profile"></a>
 
 ## Stats
 
